@@ -23,21 +23,23 @@ button{
     background:rgb(157, 252, 138);
     border:0;
     padding:10px,16px;
-    border:2px solid rgb(129, 45, 56);
+    border:2px solid rgb(69, 219, 69);
     font-size:18px;
     border-radius:10px;
-    color:rgb(129, 45, 56);
+    position:inherit;
 }
 
 .buttons{
-    padding: 10%;
+    display: flex;
+    justify-content: center;
+    
 }
 
 .div-player{
     margin:50px;
 }
 
-hand{
-    max-width:10%;
+.hand img{
+    max-width:15%;
 }
 
