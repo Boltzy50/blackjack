@@ -33,6 +33,7 @@ body * {
 
 .player {
   margin: 20px;
+  padding: 20px;
 }
 
 .player-name {
